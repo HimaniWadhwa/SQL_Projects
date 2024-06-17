@@ -1,1 +1,1 @@
-In this project, I used the employees dataset to explore the information it provides.
+Data Source - https://github.com/HimaniWadhwa/SQL_Projects/tree/main/data
